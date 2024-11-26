@@ -6,20 +6,6 @@ With over 9 years of coding experience, I began my journey with **Python** and h
 
 ---
 
-### 💼 **Current Focus**
-- **Location**: UAE
-- **Learning**: Ruby, Rust, PHP
-- **Collaborations**: Open to projects in **network security** and **web security**
-- **Hobbies**: Drawing, Gaming
-
----
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imk4sra&style=flat-square&color=brightgreen" alt="GitHub Profile Views" /> </p>
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/357233919285919746)](https://discord.com/users/357233919285919746)
-
----
-
 ## 🛠 Tech Stack & Skills
 
 ### Programming Languages
