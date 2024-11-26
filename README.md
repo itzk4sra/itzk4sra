@@ -79,8 +79,8 @@ With over 9 years of coding experience, I began my journey with **Python** and h
 ### 📫 **Get in Touch**
 
 - **Discord**: [Kasra on Discord](https://discord.com/users/357233919285919746)
-- **GitHub**: [Kasra's GitHub](https://www.github.com/imk4sra)
-- **Instagram**: [Kasra's Instagram](http://www.instagram.com/o2xl5)
+- **GitHub**: [Kasra's GitHub](https://www.github.com/itzk4sra)
+- **Instagram**: [Kasra's Instagram](http://www.instagram.com/itz._.k4)
 
 ---
 
