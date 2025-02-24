@@ -1,4 +1,6 @@
 
+<img src="https://i.ibb.co/WJjG3sZ/purple-discord-banner.jpg" alt="Banner" width="1200" height="200">
+
 # 👋 Hey, I'm Kasra!
 
 ## Network Security Engineer | Backend Developer | Artist
