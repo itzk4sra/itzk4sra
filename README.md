@@ -1,5 +1,5 @@
 
-<img src="https://i.ibb.co/WJjG3sZ/purple-discord-banner.jpg" alt="Banner" width="1200" height="200">
+<img src="https://i.ibb.co/DD4Wz06T/4581a94810e90db35c4f34d666b28f34.webp" alt="Banner" width="1200" height="200">
 
 # 👋 Hey, I'm Kasra!
 
