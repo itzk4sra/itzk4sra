@@ -3,9 +3,9 @@
 
 # 👋 Hey, I'm Kasra!
 
-## Network Security Engineer | Backend Developer | Artist
+## Network Security Engineer | Backend Developer | Digital Artist
 
-With over 11 years of coding experience, I began my journey with **Python** and have since expanded into **backend development** with a focus on **Ruby**, **Rust**, and **PHP**. Passionate about **network security**, I ensure systems are secure and scalable. When I’m not diving into code, you’ll find me **drawing** or **gaming**.
+With over **11 years of coding experience**, I started my journey with **Python** and have since mastered **backend development**, specializing in **Ruby**, **Rust**, and **PHP**. My passion for **network security** drives me to build **scalable, high-performance systems** with robust security measures. When I’m not crafting code, I’m unleashing creativity through **drawing** or immersing myself in **gaming**.
 
 ---
 
