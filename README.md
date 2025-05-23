@@ -1,5 +1,5 @@
 
-<img src="https://i.ibb.co/x8H4xjHZ/edd437bbe026cd049e86e8ed06a94171.jpg" alt="Banner" width="1200" height="200">
+<img src="https://i.ibb.co/Cp6X2f7n/2f247f075ce027b7d8736bfa4d8d195d.jpg" alt="Banner" width="1200" height="200">
 
 # 👋 Hey, I'm Kasra!
 
