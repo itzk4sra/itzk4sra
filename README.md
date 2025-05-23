@@ -5,7 +5,11 @@
 
 ## Network Security Engineer | Backend Developer | Digital Artist
 
-With over **11 years of coding experience**, I started my journey with **Python** and have since mastered **backend development**, specializing in **Ruby**, **Rust**, and **PHP**. My passion for **network security** drives me to build **scalable, high-performance systems** with robust security measures. When I’m not crafting code, I’m unleashing creativity through **drawing** or immersing myself in **gaming**.
+I'm a **backend developer** with **11+ years of experience**, specializing in **Python** and designing **secure, scalable systems**. My focus is on building high-performance backends with clean architecture and strong network security.
+
+I care deeply about writing maintainable code, optimizing performance, and ensuring systems stay robust under pressure.
+
+When I’m not coding, I spend time creating **digital art** and watching **inspiring movies** to recharge and stay creative.
 
 ---
 
